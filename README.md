@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bohdan-starosivets-63b361266/](https://www.linkedin.com/in/bohdan-starosivets-63b361266/)
 
-- 💬 Ask me about **Next.js, MERN, .NET**
+- 💬 Ask me about **Next.js, MERN, .NET, Django, Flask**
 
 - 📫 How to reach me **nicklchannel@gmail.com**
 
