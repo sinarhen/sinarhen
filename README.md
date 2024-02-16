@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently delving into **ASP.NET, Docker, Microservices**
 
-- 👨‍💻 All of my projects(Well, most of) are available at [http://bohdan.starosivets.tilda.ws/](http://bohdan.starosivets.tilda.ws/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/bohdan-starosivets-63b361266/](https://www.linkedin.com/in/bohdan-starosivets-63b361266/)
-
 - 💬 Ask me about **Next.js, MERN, .NET, Django, Flask**
 
 - 📫 How to reach me **nicklchannel@gmail.com**
 
-- 📄 Know about my experiences [http://bohdan.starosivets.tilda.ws/](http://bohdan.starosivets.tilda.ws/)
+- 📄 Know about my experiences [here](https://linkedin.com/in/bohdan-starosivets-63b361266)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
