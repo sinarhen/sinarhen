@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently delving into **ASP.NET, Docker, Microservices**
 
-- 💬 Ask me about **Next.js, MERN, .NET, Django, Flask**
+- 💬 Ask me about **Next.js, MERN, .NET**
 
 - 📫 How to reach me **nicklchannel@gmail.com**
 
