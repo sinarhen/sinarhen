@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
 <h3 align="center">A passionate Full-stack developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [EasyCommerce Platform](https://github.com/sinarhen/EasyCommerce)
+- 🔭 I’m currently working on SurveyAI - AI powered project to generate surveys
 
 - 🌱 I’m currently delving into **ASP.NET, Docker, Microservices**
 
